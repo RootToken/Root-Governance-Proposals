@@ -27,6 +27,7 @@ This bug was reported by a whitehat on Immunefi.
 - [GitHub Commit Hash](https://github.com/BeanstalkFarms/Beanstalk/pull/151)
 - [Gnosis Transaction](https://app.safe.global/eth:0xb7774ec5031e1d903152E96BbC1601e5D0D83Ca2/transactions/tx?id=multisig_0xb7774ec5031e1d903152E96BbC1601e5D0D83Ca2_0x9fcf0758777f5f57c0719bfb685fa6d8f4c8b2344f8a1acf23e85057c849352b)
 - [Etherscan Transaction](https://etherscan.io/tx/0xf9b52baec84555347dac1ae6b3354bb77947c3f62ef76fcb87e47c58429e7576)
+- [Arweave](https://arweave.net/7fjU88EiBrvbLK8oW_GRld4DsSxYfm0yLVvm0x7ywnM)
 
 ## Problem
 
@@ -42,13 +43,13 @@ Update the `_transferDeposits()` function to subtract the minimum amount remaini
 
 The fix has been sent to Halborn.
 
-## **Contract Changes**
+## Contract Changes
 
 The following callable functions are modified in Root:
 
-| Name             | Selector     |
-|:-----------------|:-------------|
-| `redeem(...)`    | `0x048f0869` |
+|     Name      |   Selector   |
+|:--------------|:-------------|
+| `redeem(...)` | `0x048f0869` |
 
 ## Effective
 
