@@ -2,7 +2,7 @@
 
 Proposed: December 1, 2022
 
-Status: Proposed
+Status: Failed
 
 Link: [Snapshot](https://snapshot.org/#/rootstalkproposals.eth/proposal/0x8d42c97b361ecc020ffb623f55987e859b3829db557542922596a10fcb8c5ed3)
 
