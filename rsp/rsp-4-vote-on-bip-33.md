@@ -1,6 +1,6 @@
-# RSP-3: Vote on BIP-32
+# RSP-4: Vote on BIP-33
 
-Proposed: December 31, 2022
+Proposed: February 1, 2023
 
 Status: Failed
 
@@ -14,8 +14,6 @@ Link: [Snapshot](https://snapshot.org/#/rootstalkproposals.eth/proposal/0x5d056c
 - [Quorum](#quorum)
 - [Voting Period](#voting-period)
 - [Proposal](#proposal)
-
-# RSP-4: Vote on BIP-33
 
 ## Proposer
 
